@@ -76,7 +76,7 @@ I want an account to be able to add and remove places and save them in a trip pl
 
   <https://github.com/jgporter24/Trippie.git>
   
-  MY PORTFOLIO:
+🎗 MY PORTFOLIO:
   https://github.com/JonSno29/JTS_PORTFOLIO.git
 
 🎗 OUR SLIDESHOW:
